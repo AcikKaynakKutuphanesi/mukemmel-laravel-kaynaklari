@@ -18,9 +18,11 @@ uygulamalar (best practices) hakkında sürekli olarak güncel bilgiler sağlama
 10. [Katkıda Bulunma](#katkıda-bulunma)
 11. [Lisans](#lisans)
 
+**[⬆ Başa Dön ⬆](#laravel-kaynakları-ve-açık-kaynak-projeler)**
+
 ---
 
-## Laravel’a Giriş ve Genel Bilgiler
+## Laravel’e Giriş ve Genel Bilgiler
 
 - **Resmi Sürüm Takvimi**: Laravel, genellikle yıllık major sürümler (10, 11, 12...) ve ara sürümlerle güncellenir.
 - **PHP Versiyonu**: Güncel Laravel sürümleri için en az PHP 8.x veya üzeri kullanmanız tavsiye edilir.
@@ -29,6 +31,8 @@ uygulamalar (best practices) hakkında sürekli olarak güncel bilgiler sağlama
 
 Laravel, **MVC** (Model-View-Controller) mimarisi üzerine kurulu, okunabilir sözdizimi ve zengin ekosistem bileşenleri
 sayesinde PHP ile modern web uygulamaları geliştirmenin en popüler yollarından biridir.
+
+**[⬆ Başa Dön ⬆](#laravel-kaynakları-ve-açık-kaynak-projeler)**
 
 ---
 
@@ -53,6 +57,8 @@ ağırlıklı olarak **debug/hata ayıklama** ve **performans** odaklı paketler
 | **MicroScope**          | [Link](https://github.com/imanghafoori1/laravel-microscope)                                  | Akıllı kontroller yaparak belirli hataları bulmanıza ve yeniden düzenleme yapmanıza olanak tanır.                                      |
 | **WireSpy**             | [Link](https://github.com/wire-elements/wire-spy)                                            | Livewire bileşenleriniz için şık bir hata ayıklama aracı; bileşen durumunu incelemenize ve değişiklikleri takip etmenize olanak tanır. |
 | **Laravel Pint**        | [Link](https://laravel.com/docs/pint)                                                        | Laravel projenizde kod stilini otomatik düzeltmek için geliştirilmiş “code style fixer” aracıdır.                                      |
+
+**[⬆ Başa Dön ⬆](#laravel-kaynakları-ve-açık-kaynak-projeler)**
 
 ---
 
@@ -83,6 +89,8 @@ olarak sıkça kullanılır:
 - **[Laravel Nova](https://nova.laravel.com)**: Laravel için güçlü bir yönetim paneli oluşturmanıza olanak tanır. (
   Ücretli)
 
+**[⬆ Başa Dön ⬆](#laravel-kaynakları-ve-açık-kaynak-projeler)**
+
 ---
 
 ## Kullanışlı Spatie Paketleri
@@ -100,6 +108,8 @@ birçok faydalı paket üretmiştir:
   yönetimi için kullanılır.
 - **[laravel-analytics](https://github.com/spatie/laravel-analytics)**: Google Analytics verilerini Laravel ile entegre
   etmek için kullanılır.
+
+**[⬆ Başa Dön ⬆](#laravel-kaynakları-ve-açık-kaynak-projeler)**
 
 ---
 
@@ -174,6 +184,8 @@ Bu farklı geliştirme ortamlarının avantajları ve kullanım şekilleri, proj
 
 İhtiyaçlarınızı göz önünde bulundurarak size en uygun geliştirme ortamını seçebilirsiniz.
 
+**[⬆ Başa Dön ⬆](#laravel-kaynakları-ve-açık-kaynak-projeler)**
+
 ---
 
 ## Eğitim ve Kaynaklar
@@ -186,6 +198,8 @@ Bu farklı geliştirme ortamlarının avantajları ve kullanım şekilleri, proj
 - **[Laravel Daily](https://laraveldaily.com)**: Kısa ipuçları, videolar ve blog yazıları yayınlanır.
 - **[Youtube Kanalları](https://youtube.com/results?search_query=laravel)**: _DevDojo_, _Traversy Media_, _The Net
   Ninja_ gibi kanallarda Laravel dersleri ve rehber videoları bulabilirsiniz.
+
+**[⬆ Başa Dön ⬆](#laravel-kaynakları-ve-açık-kaynak-projeler)**
 
 ---
 
@@ -223,6 +237,8 @@ Bu farklı geliştirme ortamlarının avantajları ve kullanım şekilleri, proj
 - [Laravel Pint](https://laravel.com/docs/pint) veya [PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) gibi
   araçlarla kodunuzu düzenli tutun.
 
+**[⬆ Başa Dön ⬆](#laravel-kaynakları-ve-açık-kaynak-projeler)**
+
 ---
 
 ## Güvenlik ve Test
@@ -237,6 +253,8 @@ Bu farklı geliştirme ortamlarının avantajları ve kullanım şekilleri, proj
     - Rate limiting için [Laravel Throttle Middleware](https://laravel.com/docs/rate-limiting) kullanarak API
       isteklerinizi koruma altına alın.
     - HTTPS kullanımını zorunlu kılın ve HSTS gibi ek başlıklar ayarlamayı düşünün.
+
+**[⬆ Başa Dön ⬆](#laravel-kaynakları-ve-açık-kaynak-projeler)**
 
 ---
 
@@ -255,6 +273,8 @@ Bu farklı geliştirme ortamlarının avantajları ve kullanım şekilleri, proj
   etiketleriyle güncel haber ve paylaşımları takip edebilirsiniz.
 - **[Meetup Grupları](https://meetup.com/topics/laravel)**: Bulunduğunuz şehirde veya ülkede Laravel/PHP
   meetuplarını arayın, toplulukla etkileşim halinde olun.
+
+**[⬆ Başa Dön ⬆](#laravel-kaynakları-ve-açık-kaynak-projeler)**
 
 ---
 
@@ -275,12 +295,12 @@ Laravel ekosistemindeki en yeni gelişmeleri takip etmeyi ihmal etmeyin ve katk�
 büyütmeye devam edin... Bu repo üzerinden yaptığınız her katkı, Laravel topluluğunun daha kaliteli ve kapsamlı bilgiye erişmesine destek
 olacaktır!
 
+**[⬆ Başa Dön ⬆](#laravel-kaynakları-ve-açık-kaynak-projeler)**
+
 ---
 
 ## Lisans
 
 Bu proje **MIT** lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
-
----
 
 **[⬆ Başa Dön ⬆](#laravel-kaynakları-ve-açık-kaynak-projeler)**
